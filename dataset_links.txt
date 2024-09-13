@@ -1,0 +1,6 @@
+Kaggle:
+1. https://www.kaggle.com/datasets/niketchauhan/covid-19-time-series-data  (2020-1 ~ 2020-10)
+
+
+GitHub:
+1. https://github.com/datasets/covid-19/
